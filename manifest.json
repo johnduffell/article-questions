@@ -1,0 +1,19 @@
+{
+  "name": "Guardian Questionnaire",
+  "description": "Find out what people think",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://www.theguardian.com/*"],
+      "css": ["main.css"],
+      "js": ["main.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "*.png"
+  ],
+  "permissions": [
+          "storage"
+        ],
+  "manifest_version": 2
+}
