@@ -1,6 +1,8 @@
-just check this out
-go to Chrome extensions
-turn on developer mode
-load unpacked extension
-choose this dir
-go to an old guardian article# article-questions
+# How to use this
+
+* just check this out
+* go to Chrome extensions
+* turn on developer mode
+* load unpacked extension
+* choose this dir
+* go to a guardian article
