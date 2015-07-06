@@ -11,7 +11,18 @@ margin: 1em 4em;
     display: block;
 }
 
-.answer {
-    display: block;
+.question__answer {
     font-color: blue;
+    padding: 0.5em;
+}
+
+.question__thanks {
+    font-color: black;
+    display: none;
+    padding: 0.5em;
+}
+
+.question__why {
+    float: right;
+    font-size: small;
 }

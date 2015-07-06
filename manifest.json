@@ -6,7 +6,7 @@
     {
       "matches": ["http://www.theguardian.com/*"],
       "css": ["main.css"],
-      "js": ["main.js"]
+      "js": ["questions.js", "main.js"]
     }
   ],
   "web_accessible_resources": [
