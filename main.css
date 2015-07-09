@@ -14,12 +14,36 @@ margin: 1em 4em;
 .question__answer {
     font-color: blue;
     padding: 0.5em;
+    margin: 0.5em;
+    background-color: white;
+    border: 1px solid black;
 }
 
 .question__thanks {
     font-color: black;
     display: none;
+    background-color: lightgreen;
     padding: 0.5em;
+}
+
+.question__onward {
+    display: inline;
+    background-color: lightgray;
+    border: 1px solid red;
+    padding: 0.5em;
+    width: 50px;
+}
+
+.question__icecream {
+    display: inline;
+    background-color: lightgray;
+    border: 1px solid white;
+    padding: 0.5em;
+    height: 200px;
+}
+
+.question__thanks__wrapper {
+    display: none;
 }
 
 .question__why {

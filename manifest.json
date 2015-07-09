@@ -10,7 +10,7 @@
     }
   ],
   "web_accessible_resources": [
-    "*.png"
+    "*.png", "*.jpeg", "*.gif"
   ],
   "permissions": [
           "storage"
